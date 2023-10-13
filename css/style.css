@@ -430,3 +430,8 @@
 .testimonial-carousel .owl-dot.active::after {
     background: var(--primary);
 }
+
+.fa-solid{
+    margin-right: 10px;
+    font-size: 22px;
+}
