@@ -436,3 +436,7 @@
     font-size: 22px;
     color: #012169;
 }
+
+.what li{
+    list-style-type: lower-alpha;
+}
